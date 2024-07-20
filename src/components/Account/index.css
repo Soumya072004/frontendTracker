@@ -1,0 +1,26 @@
+.account-cont {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgb(211, 193, 148);
+    background-color: rgb(255, 243, 244);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.account-name {
+    font-family:  'sans-serif';
+    font-size: clamp(1rem, 1.5vw, 1.2rem);
+    font-weight: bold;
+    color: #b98a15;
+    margin-bottom: 14px;
+    
+   
+}
+
+.span-ele {
+    font-family: 'sans-serif';
+    font-weight: bold;
+    font-size: 18px;
+    color: #39afbc;
+    margin-bottom: 0px;
+}
